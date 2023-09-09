@@ -16,7 +16,7 @@
 
 -----------------------------------------
 ### Overview
-
+Welcome to the Movie Review Website! This platform is tailored for avid movie enthusiasts who enjoy exploring, reviewing, and engaging with their favorite films. Users can seamlessly browse through a diverse collection of movies, add their own reviews, and even watch trailers with just a click.
 
 
 -----------------------------------------
@@ -24,8 +24,8 @@
 ### Features
 
 * User-friendly interface with easier navigation between movies
-* Click on movies to watch trailer
-* Post reviews for each movie
+* Click on a movie to view its trailer and get a taste of what's in store
+* Contribute to the community by sharing your own reviews and ratings for movies
 * User authentication for secure posting of reviews
 
 -----------------------------------------

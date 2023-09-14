@@ -5,7 +5,7 @@
 <h1 align="center">MoviesHub Website</h1>
 <div align="center">
      <h4 align="center">
-       This website is for avid movie enthusiasts who enjoy watching and providing reviews for films.
+       This web app is for avid movie enthusiasts who enjoy watching and providing reviews for films.
      </h4>
      <br/>
      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/><img  
